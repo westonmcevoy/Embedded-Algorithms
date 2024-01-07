@@ -34,3 +34,6 @@
 [submodule "finalproject-westonmcevoy"]
 	path = finalproject-westonmcevoy
 	url = https://github.com/ECEN4763Fall2023/finalproject-westonmcevoy.git
+[submodule "assignment5-westonmcevoy"]
+	path = assignment5-westonmcevoy
+	url = https://github.com/ECEN4763Fall2022/assignment5-westonmcevoy.git
