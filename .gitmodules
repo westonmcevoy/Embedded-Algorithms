@@ -1,0 +1,9 @@
+[submodule "assignment0-westonmcevoy"]
+	path = assignment0-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment0-westonmcevoy.git
+[submodule "assignment1-westonmcevoy"]
+	path = assignment1-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment1-westonmcevoy.git
+[submodule "assignment2-westonmcevoy"]
+	path = assignment2-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment2-westonmcevoy.git
