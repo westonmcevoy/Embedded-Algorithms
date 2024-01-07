@@ -7,3 +7,30 @@
 [submodule "assignment2-westonmcevoy"]
 	path = assignment2-westonmcevoy
 	url = https://github.com/ECEN4763Fall2023/assignment2-westonmcevoy.git
+[submodule "assignment3-westonmcevoy"]
+	path = assignment3-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment3-westonmcevoy.git
+[submodule "assignment4-westonmcevoy"]
+	path = assignment4-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment4-westonmcevoy.git
+[submodule "assignment6-westonmcevoy"]
+	path = assignment6-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment6-westonmcevoy.git
+[submodule "assignment7-westonmcevoy"]
+	path = assignment7-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment7-westonmcevoy.git
+[submodule "assignment8-westonmcevoy"]
+	path = assignment8-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment8-westonmcevoy.git
+[submodule "assignment9-westonmcevoy"]
+	path = assignment9-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment9-westonmcevoy.git
+[submodule "assignment10-westonmcevoy"]
+	path = assignment10-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment10-westonmcevoy.git
+[submodule "assignment11-westonmcevoy"]
+	path = assignment11-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/assignment11-westonmcevoy.git
+[submodule "finalproject-westonmcevoy"]
+	path = finalproject-westonmcevoy
+	url = https://github.com/ECEN4763Fall2023/finalproject-westonmcevoy.git
